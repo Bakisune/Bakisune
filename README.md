@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, mundo! Me chamo Akira (ou Bakisune se preferir) 👋
 
-<!--
-**Bakisune/Bakisune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Sou principalmente um **Desenvolvedor Front-end ⚛️** apaixonado por **criar interfaces intuitivas e experiências de usuário incríveis ✨**. Adoro transformar ideias complexas em soluções web elegantes e responsivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas da programação** e em como elas se conectam. Também sou **ilustrador 🎨**, e busco trazer um olhar criativo para tudo que faço.
+
+---
+
+### 🚀 O que eu estou aprontando:
+
+* Atualmente cursando Engenharia de Software.
+* Dedicando tempo para aprender mais, recentemente além da faculdade estou no Jovem tech**.
+* **Trabalhando de forma freelance em illustrações e animações**
+* **Melhorando a história do meu universo e forcando no meu projeto**
+
+---
+
+### 🛠️ Minhas Ferramentas e Tech Stack:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bakisune&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+### 💬 Entre em contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akiraalcantara-bakisune/)
+---
