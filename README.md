@@ -25,15 +25,6 @@ Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas
   </a>
 </p>
 
----
-
-### 📊 Estatísticas do GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakisune&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
-
----
 
 ### 💬 Entre em contato!
 
