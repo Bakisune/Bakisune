@@ -1,10 +1,10 @@
-# Olá, mundo! Me chamo Akira (ou Bakisune se preferir) 👋
+# Olá, mundo! Me chamo Akira (ou Bakisune se preferir)
 
 ---
 
-Sou principalmente um **Desenvolvedor Front-end ⚛️** apaixonado por **criar interfaces intuitivas e experiências de usuário incríveis ✨**. Adoro transformar ideias complexas em soluções web elegantes e responsivas.
+Sou principalmente um **Desenvolvedor Front-end** apaixonado por **criar interfaces intuitivas e experiências de usuário incríveis**. Adoro transformar ideias complexas em soluções web elegantes e responsivas.
 
-Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas da programação** e em como elas se conectam. Também sou **ilustrador 🎨**, e busco trazer um olhar criativo para tudo que faço.
+Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas da programação** e em como elas se conectam. Também sou **ilustrador**, e busco trazer um olhar criativo para tudo que faço.
 
 ---
 
