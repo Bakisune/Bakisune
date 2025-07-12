@@ -11,7 +11,7 @@ Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas
 ### 🚀 O que eu estou aprontando:
 
 * Atualmente cursando Engenharia de Software.
-* Dedicando tempo para aprender mais, recentemente além da faculdade estou no Jovem tech**.
+* Dedicando tempo para aprender mais, recentemente além da faculdade estou no Jovem tech.
 * **Trabalhando de forma freelance em illustrações e animações**
 * **Melhorando a história do meu universo e forcando no meu projeto**
 
