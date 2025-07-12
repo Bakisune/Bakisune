@@ -21,7 +21,7 @@ Além do desenvolvimento web, tenho grande interesse em **explorar outras áreas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,git,vscode" />
   </a>
 </p>
 
